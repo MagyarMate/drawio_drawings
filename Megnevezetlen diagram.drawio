@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T17:21:48.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="af2oE3EN-0ezw10tyVKJ" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T17:22:19.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="LJwt1_L3XVNPiZcgV1Ve" version="20.4.1" type="github">
   <diagram id="3tts951s_HiSQeFY9EzK" name="1 oldal">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dXMUqU36oEAxvwukicwW-15" value="User Database" style="shape=table;html=1;whiteSpace=wrap;startSize=40;container=1;collapsible=0;childLayout=tableLayout;swimlaneFillColor=none;" parent="1" vertex="1">
+        <mxCell id="dXMUqU36oEAxvwukicwW-15" value="Users&amp;nbsp;" style="shape=table;html=1;whiteSpace=wrap;startSize=40;container=1;collapsible=0;childLayout=tableLayout;swimlaneFillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dXMUqU36oEAxvwukicwW-16" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="dXMUqU36oEAxvwukicwW-15" vertex="1">
